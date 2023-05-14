@@ -1,0 +1,22 @@
+#gameDiv{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color:gold;
+    text-align: center;
+    border: 3px solid;
+    border-radius: 12px;
+    position: relative;
+    height: 240px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.choice{
+    background-color:orange;
+    color: black;
+    border: 3px solid;
+    border-color: black;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    width: 150px;
+}
